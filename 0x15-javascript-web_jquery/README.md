@@ -1,4 +1,7 @@
-Say Hello!
+**Say Hello!**
+
+![4724718](https://github.com/Baajike/alx-higher_level_programming/assets/115042371/cc242855-7bcb-419d-ad6d-72703b73f40b)
+
 
 This is a simple web application that fetches and displays the translation of "Hello" in different languages. The translation is fetched from the Hello Salut API.
 
